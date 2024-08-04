@@ -1,1 +1,12 @@
+body{
+    margin: 0;
+}
 
+#topo{
+    border-bottom: 1px solid;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: space-between;
+}
